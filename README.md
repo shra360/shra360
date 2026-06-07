@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shrawon Dey, currently a BTech student at Indian Institute of Technology, Guwahati (2023-27)
+- Hi, I’m Shrawon Dey, currently a BTech student at Indian Institute of Technology, Guwahati (2023-27)
 - My work is majorly associated with Machine Learning, Data Science and Data Analytics
 - Always up for puzzles, stats and math
 - Languages : C++, Python, Java, HTML, JavaScript, TypeScript
